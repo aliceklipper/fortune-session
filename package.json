@@ -1,0 +1,12 @@
+{
+    "name"         : "fortune-session",
+    "version"      : "0.0.1",
+    "description"  : "Fortune.js-based session store for Express.",
+    "main"         : "index.js",
+    "author"       : "Alice Klipper <alice.klipper@yandex.com>",
+    "license"      : "MIT",
+    "repository"   : "aliceklipper/fortune-session",
+    "dependencies" : {
+        "debug" : "^2.2.0"
+    }
+}
